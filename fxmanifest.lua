@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'CustomCodex'
 description 'Codex Flitsmeister - Speed Camera Warnings'
 version '1.1.0'
 
